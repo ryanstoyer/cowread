@@ -8,7 +8,7 @@ Welcome to **Cowread**
 ### Why?
   * Because everybody's got to start somewhere. 
   * I started with Cowread. 
-  * Cowsay is a tutorial exercise for me to learn the basics of shell scripting.
+  * Cowread is a tutorial exercise for me to learn the basics of shell scripting.
   * I wrote Cowread the same day I first used the command line.
   * Yes, this list is an arbitrary exercise in markdown.
   * I'm new at that too.
